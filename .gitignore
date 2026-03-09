@@ -39,4 +39,9 @@ Temporary Items
 */vendor
 */database.sqlite
 
+## Workflow
+claude.md
+educational_context.md
+persona.md
+
 # End of https://www.toptal.com/developers/gitignore/api/macos
